@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Saba 👋
 
-<!--
-**sabasazad/sabasazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer volunteering with **STEMplore**, building frontend experiences 
+that make STEM education more accessible.
 
-Here are some ideas to get you started:
+## 🛠️ Tech I'm Working With
+- **Frontend:** Next.js, React, Tailwind CSS, TypeScript
+- **Mobile:** Swift, SwiftUI
+- **Also know:** Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- React component architecture
+- Next.js App Router
+- SwiftUI for iOS
+
+## 📌 Featured Project
+- 🔭 [STEMplore Frontend](https://github.com/sabasazad/stemplore-frontend-nextjs) — STEM education platform
+
+## 📫 Let's Connect
+- LinkedIn: [your-link](https://linkedin.com/in/sabasazad)
