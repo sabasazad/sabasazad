@@ -14,7 +14,7 @@ that make STEM education more accessible.
 - SwiftUI for iOS
 
 ## 📌 Featured Project
-- 🔭 https://github.com/sabasazad/stemforothers-frontend-nextjs.git — STEM education platform
+- 🔭 https://github.com/sabasazad/stemforothers-frontend-nextjs — STEM education platform
 
 ## 📫 Let's Connect
 - LinkedIn: https://linkedin.com/in/sabasazad
