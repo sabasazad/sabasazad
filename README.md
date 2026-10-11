@@ -13,10 +13,6 @@ I build and evaluate **AI agents and RAG systems** — with a focus on making LL
 RAG pipeline that fuses live market data with company AI-strategy documents, then measures and improves itself: LLM-as-judge evaluation, a gold-set accuracy check, **DSPy + GEPA prompt optimization** (held-out accuracy 12% → 50%), and confidence-based routing to human review.
 `Python` `LangChain` `ChromaDB` `DSPy` `OpenAI` `yfinance`
 
-### 🗣️ Voice-to-voice assistant for older adults
-Multilingual voice chat app with speech-to-text, LLM responses and emotion classification.
-`Whisper` `Groq API` `Mixtral` `Gradio`
-
 ### 🛡️ AI content moderation agent
 Workflow agent that classifies and routes user content, built end to end in n8n Cloud with OpenAI.
 `n8n` `OpenAI`
